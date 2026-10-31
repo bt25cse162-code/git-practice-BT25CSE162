@@ -4,7 +4,7 @@
 
 - **Name:** Abhishek Sathe
 - **Roll Number:** BT25CSE162
-- **Section:** CSE
+- **Section:** CSE C-1
 
 ## Assignment Description
 
