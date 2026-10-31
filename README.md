@@ -59,6 +59,11 @@ The file `git-commands.md` describes common Git commands and explains merge conf
 ## GitHub Activity
 
 ### Issues
+- [Implement Order Tracking System](https://github.com/bt25cse162-code/git-practice-BT25CSE162/issues/1)
+- [Implement Bank Interest System](https://github.com/bt25cse162-code/git-practice-BT25CSE162/issues/2)
+
+### Pull Requests
+- [Add Order Tracking documentation](https://github.com/bt25cse162-code/git-practice-BT25CSE162/pull/3)
 - [Implement Order Tracking System](https://github.com/bt25cse162-code/git-practice-BT25CSE162/issues/1
 )
 - [Implement Bank Interest System](https://github.com/bt25cse162-code/git-practice-BT25CSE162/issues/2
