@@ -64,3 +64,40 @@ The file `git-commands.md` describes common Git commands and explains merge conf
 
 ### Pull Requests
 - [Add Order Tracking documentation](https://github.com/bt25cse162-code/git-practice-BT25CSE162/pull/3)
+
+- ## Sample Outputs
+
+### Exercise 1: Order Tracking System
+
+```text
+Order ID: 101
+Order ID: 102
+Order ID: 103
+Total Orders: 3
+```
+
+### Exercise 2: Bank Interest System
+
+```text
+Initial Interest Rate: 5%
+Account Number: 1001
+Balance: 10000
+Interest Rate: 5%
+Annual Interest: 500
+
+Account Number: 1002
+Balance: 20000
+Interest Rate: 5%
+Annual Interest: 1000
+
+Updated Interest Rate: 6%
+Account Number: 1001
+Balance: 10000
+Interest Rate: 6%
+Annual Interest: 600
+
+Account Number: 1002
+Balance: 20000
+Interest Rate: 6%
+Annual Interest: 1200
+```
